@@ -1,16 +1,25 @@
-# 📊 Sales Performance Dashboard | Power BI
+# 📊 Sales Performance Dashboard using Power BI
+
+## Dashboard Preview
+
+<img width="1432" height="802" alt="image" src="https://github.com/user-attachments/assets/85eff0da-586f-4ff6-9176-4d59424014be" />
+
+
+**Note:** The Power BI (.pbix) file contains additional report pages created for learning and practice.
+
+---
 
 ## Overview
 
-This project presents an interactive Power BI dashboard for analyzing sales performance using a relational sales dataset. The dashboard provides insights into sales, profitability, product performance, customer distribution, and operational efficiency.
+This project presents an interactive Power BI dashboard for analyzing sales performance using a relational sales dataset. The dashboard provides insights into sales, profitability, product performance, customer distribution, shipping efficiency, and order trends through interactive visualizations and filters.
 
 ---
 
 ## Dashboard Features
 
 - Total Sales
-- Profit Margin
-- Profit Margin %
+- Total Profit
+- Profit Margin (%)
 - Total Units Sold
 - Top Selling Product
 - Sales by Product Line
@@ -29,12 +38,13 @@ This project presents an interactive Power BI dashboard for analyzing sales perf
 - Power Query
 - DAX
 - Data Modeling
+- Data Visualization
 
 ---
 
 ## Dataset
 
-The dashboard uses multiple related tables including:
+The dashboard is built using a relational dataset consisting of the following tables:
 
 - Customers
 - Orders
@@ -47,10 +57,15 @@ The dashboard uses multiple related tables including:
 
 ---
 
-## Dashboard Preview
+## Business Insights
 
-<img width="1432" height="802" alt="image" src="https://github.com/user-attachments/assets/85eff0da-586f-4ff6-9176-4d59424014be" />
-
+- Monitored key performance indicators including Total Sales, Total Profit, Profit Margin (%), Total Units Sold, and the Top-Selling Product.
+- Analyzed sales performance across different product lines to identify high-performing categories.
+- Identified the top 5 products based on total sales.
+- Evaluated monthly shipping performance using average shipping days.
+- Analyzed quantity ordered trends by year and by product line.
+- Visualized customer distribution across countries using an interactive map.
+- Enabled dynamic filtering and data exploration through interactive slicers.
 
 ---
 
