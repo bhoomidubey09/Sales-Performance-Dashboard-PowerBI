@@ -33,11 +33,25 @@ This project presents an interactive Power BI dashboard for analyzing sales perf
 
 ## 🛠️ Tools Used
 
-- 📊 Power BI Desktop
-- 🔄 Power Query
-- 🧮 DAX
-- 🗂️ Data Modeling
-- 📉 Data Visualization
+-  **Power BI Desktop**
+-  **Power Query**
+-  **DAX**
+-  **Data Modeling**
+-  **Data Visualization**
+
+---
+
+## 📈 Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Data Modeling
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Dashboard Development
+* KPI Reporting
+* Business Intelligence
+* DAX Calculations
+* Interactive Reporting
 
 ---
 
@@ -45,14 +59,14 @@ This project presents an interactive Power BI dashboard for analyzing sales perf
 
 The dashboard is built using a relational dataset consisting of the following tables:
 
-- 👥 Customers
-- 🛒 Orders
-- 📦 Order Details
-- 🏷️ Products
-- 📂 Product Lines
-- 💳 Payments
-- 👨‍💼 Employees
-- 🏢 Offices
+-  Customers
+-  Orders
+-  Order Details
+-  Products
+-  Product Lines
+-  Payments
+-  Employees
+-  Offices
 
 ---
 
